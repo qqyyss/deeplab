@@ -8,6 +8,6 @@
 
 
 <div align=center>
-<img src="https://github.com/qqyyss/deeplab/blob/main/model.png" > />
+<img src="https://github.com/qqyyss/deeplab/blob/main/model.png" >
 </div>
 
